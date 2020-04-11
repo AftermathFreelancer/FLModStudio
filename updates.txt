@@ -1,0 +1,1 @@
+1.3.0.0;https://github.com/AftermathFreelancer/FLModStudio/releases/download/1.3/FreelancerModStudio-1.3.exe;0
